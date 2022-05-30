@@ -1,4 +1,4 @@
-# Sup, it's m1nutes here :
+# Sup, minutes here:
 #### Just learning code and posting it here. 
 #### Studying Java, HTML/CSS/JS, Python, Lua and C
 #### Art lover
